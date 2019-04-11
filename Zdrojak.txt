@@ -1,7 +1,9 @@
 Jedna
 Dva
 Tri
-�tyri
-P�
-�es�
+Styri
+Pat
+Sest
 Sedem
+Osem
+
